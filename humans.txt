@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Trenton Radford  trenton.Radford@gmail.com  @noTweeting
 
 # THANKS
 

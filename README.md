@@ -1,5 +1,5 @@
 # Starter Web Project
-
+Adding a line for Rebasing exampleS
 This repository is for showing how Git and GitHub work
 
 ## Introduction

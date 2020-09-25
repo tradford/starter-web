@@ -7,7 +7,7 @@ This is an example of how to show different parts of the Git repository and vari
 ## Purpose
 
 Sample website with plenty of files for demos
-
+Practicing how to stash changes
 ## Deployment
 This can be deployed from any local or web enabled machine to help with projects
 ## How to Contribute

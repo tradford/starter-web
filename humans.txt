@@ -11,6 +11,6 @@
    Please leave a review if you like this course
 
 # TECHNOLOGY COLOPHON
-
+    This is  a modification for stashing
     HTML5, CSS3
     jQuery, Modernizr
